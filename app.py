@@ -20,7 +20,7 @@ def load_anime():
 st.sidebar.image('images/flight_tracker.png')
 selected=option_menu(menu_title=None,options=['Home','Flights','Dashboard'],orientation='horizontal',icons=['house','bi-airplane','bi-bar-chart-line'])
 get_cleaned_df()
-df=pd.read_csv('cleaned_flights.csv').drop('Unnamed: 0',axis=1)
+df=pd.read_csv('cleaned_flights.csv')
 if not df.empty:
     with st.sidebar:
         airline_name=st.selectbox('**Airline Name**',options=['All']+list(df['airline_name'].unique()))
