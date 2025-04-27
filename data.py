@@ -7,7 +7,7 @@ import streamlit as st
 import csv
 
 # fetching data using aviationstack api
-@st.cache_data(ttl=43200)
+@st.cache_data(ttl=500)
 def get_data():
     url=st.secrets['aviationstack']['URL']
     params={

@@ -11,7 +11,7 @@ import json
 import threading as th
 from data import get_cleaned_df
 
-st.set_page_config(page_title='Flight Tracker Dashboard',page_icon='images/flight_tracker.png',layout='wide',initial_sidebar_state='auto')
+st.set_page_config(page_title='Flight Tracker Dashboard',page_icon='images/airplane.png',layout='wide',initial_sidebar_state='auto')
 def load_anime():
     file='flight_anime.json'
     with open(file,'r') as f:
