@@ -1,0 +1,101 @@
+,airline_name,flight_date,flight,flight_status,departure_airport,departure_scheduled,arrival_airport,arrival_scheduled,arrival_delay,departure_iata,arrival_iata
+1,Longhao Airlines,2025-04-28,GI4034,scheduled,Dongsheng,03:00 AM,Hangzhou,05:30 AM,0,DSN,HGH
+2,Malaysia Airlines,2025-04-28,MH117,scheduled,Thiruvananthapuram International,12:05 AM,Kuala Lumpur International Airport (klia),06:45 AM,0,TRV,KUL
+3,SF Airlines,2025-04-28,O37470,scheduled,Hangzhou,02:40 AM,Kunming,05:55 AM,0,HGH,KMG
+4,SF Airlines,2025-04-28,O37233,scheduled,Hangzhou,02:40 AM,Zhengzhou,04:10 AM,0,HGH,CGO
+5,Longhao Airlines,2025-04-28,GI4033,scheduled,Hangzhou,02:40 AM,Dongsheng,05:20 AM,0,HGH,DSN
+6,SF Airlines,2025-04-28,O37231,scheduled,Hangzhou,02:35 AM,Tianhe International,03:55 AM,0,HGH,WUH
+7,SF Airlines,2025-04-28,O37117,scheduled,Hangzhou,02:20 AM,Nanjing Lukou International Airport,03:05 AM,0,HGH,NKG
+8,YTO Cargo Airlines,2025-04-28,YG9133,scheduled,Hangzhou,02:20 AM,Kansai International,06:50 AM,0,HGH,KIX
+9,YTO Cargo Airlines,2025-04-28,YG9029,scheduled,Hangzhou,02:20 AM,Seoul (Incheon),06:30 AM,0,HGH,ICN
+10,SF Airlines,2025-04-28,O37064,scheduled,Hangzhou,02:20 AM,Jinjiang,03:40 AM,0,HGH,JJN
+11,SF Airlines,2025-04-28,O37068,scheduled,Hangzhou,02:20 AM,Jinjiang,03:30 AM,0,HGH,JJN
+12,YTO Cargo Airlines,2025-04-28,YG9011,scheduled,Hangzhou,02:15 AM,Noibai International,03:50 AM,0,HGH,HAN
+13,JDL Airlines,2025-04-28,JG2679,scheduled,Hangzhou,02:10 AM,Shenzhen,04:15 AM,0,HGH,SZX
+14,YTO Cargo Airlines,2025-04-28,YG9163,scheduled,Hangzhou,02:10 AM,Kansai International,06:45 AM,0,HGH,KIX
+15,YTO Cargo Airlines,2025-04-28,YG9051,scheduled,Hangzhou,02:10 AM,Kuala Lumpur International Airport (klia),07:15 AM,0,HGH,KUL
+16,Air New Zealand,2025-04-28,NZ5251,scheduled,Tauranga,06:30 AM,Wellington International,07:50 AM,0,TRG,WLG
+17,Air New Zealand,2025-04-28,NZ5144,scheduled,Tauranga,06:10 AM,Auckland International,06:50 AM,0,TRG,AKL
+18,Suparna Airlines,2025-04-28,Y87477,scheduled,Shanghai,03:00 AM,Ted Stevens Anchorage International Airport,08:15 PM,0,HFE,ANC
+19,Central Airlines,2025-04-28,I99876,scheduled,Shanghai,03:00 AM,Shenzhen,05:15 AM,0,HFE,SZX
+20,Air Horizont,2025-04-28,HT3829,scheduled,Nanning,12:10 AM,Ninoy Aquino International,02:40 AM,0,NNG,MNL
+21,AirAsia,2025-04-28,AK603,scheduled,Ninoy Aquino International,03:00 AM,Bacolod,04:10 AM,0,MNL,BCD
+22,YTO Cargo Airlines,2025-04-28,YG9114,scheduled,Ninoy Aquino International,03:00 AM,Nanning,05:40 AM,0,MNL,NNG
+23,Central Airlines,2025-04-28,I99802,scheduled,Ninoy Aquino International,03:00 AM,Jinjiang,05:30 AM,0,MNL,JJN
+24,Tianjin Air Cargo,2025-04-28,HT3832,scheduled,Ninoy Aquino International,03:00 AM,Nanning,05:35 AM,0,MNL,NNG
+25,YTO Cargo Airlines,2025-04-28,YG9080,scheduled,Ninoy Aquino International,02:55 AM,Hangzhou,05:55 AM,0,MNL,HGH
+26,YTO Cargo Airlines,2025-04-28,YG9050,scheduled,Ninoy Aquino International,02:55 AM,Yiwu,05:55 AM,0,MNL,YIW
+27,Jetstar Japan,2025-04-28,GK42,scheduled,Ninoy Aquino International,02:50 AM,Narita International Airport,08:20 AM,0,MNL,NRT
+28,Philippine Airlines,2025-04-28,PR1803,scheduled,Ninoy Aquino International,02:30 AM,Francisco Bangoy International,04:30 AM,0,MNL,DVO
+29,China Airlines,2025-04-28,CI8753,scheduled,Ninoy Aquino International,02:30 AM,Francisco Bangoy International,04:30 AM,0,MNL,DVO
+30,Air New Zealand,2025-04-28,NZ5829,scheduled,Hamilton,06:45 AM,Wellington International,08:00 AM,0,HLZ,WLG
+31,Philippine Airlines,2025-04-28,PR2822,scheduled,Francisco Bangoy International,02:55 AM,Ninoy Aquino International,04:50 AM,0,DVO,MNL
+32,ANA,2025-04-28,NH5262,scheduled,Francisco Bangoy International,02:55 AM,Ninoy Aquino International,04:50 AM,0,DVO,MNL
+33,Malaysia Airlines,2025-04-28,MH4584,scheduled,Francisco Bangoy International,02:55 AM,Ninoy Aquino International,04:50 AM,0,DVO,MNL
+34,China Airlines,2025-04-28,CI8752,scheduled,Francisco Bangoy International,02:55 AM,Ninoy Aquino International,04:50 AM,0,DVO,MNL
+35,Cebu Pacific Air,2025-04-28,5J968,scheduled,Francisco Bangoy International,02:10 AM,Ninoy Aquino International,04:20 AM,0,DVO,MNL
+36,Sichuan Airlines,2025-04-28,3U9014,scheduled,Phuket International,01:45 AM,Nanning,05:15 AM,0,HKT,NNG
+37,SF Airlines,2025-04-28,O37402,scheduled,Beijing Daxing International Airport,03:05 AM,Shuangliu,05:55 AM,0,PKX,CTU
+38,JDL Airlines,2025-04-28,JG2688,scheduled,Beijing Daxing International Airport,02:40 AM,Shenzhen,05:40 AM,0,PKX,SZX
+39,Thai Vietjet Air,2025-04-28,VZ3719,scheduled,Beijing Daxing International Airport,02:15 AM,Suvarnabhumi International,06:00 AM,0,PKX,BKK
+40,VietJet Air,2025-04-28,VJ7713,scheduled,Beijing Daxing International Airport,02:15 AM,Noibai International,04:50 AM,0,PKX,HAN
+41,Aeroflot,2025-04-28,SU5431,scheduled,Beijing Daxing International Airport,02:15 AM,Novyy,07:10 AM,0,PKX,KHV
+42,AirAsia X,2025-04-28,D7343,scheduled,Beijing Daxing International Airport,02:15 AM,Kuala Lumpur International Airport (klia),08:30 AM,0,PKX,KUL
+43,China Postal Airlines,2025-04-28,CF9020,scheduled,Beijing Daxing International Airport,02:10 AM,Guangzhou Baiyun International,05:40 AM,0,PKX,CAN
+44,Air New Zealand,2025-04-28,NZ5680,scheduled,Dunedin International,06:35 AM,Wellington International,08:30 AM,0,DUD,WLG
+45,Qantas,2025-04-28,QF8571,scheduled,Dunedin International,06:35 AM,Wellington International,08:30 AM,0,DUD,WLG
+46,Etihad Airways,2025-04-28,EY4620,scheduled,Dunedin International,06:35 AM,Wellington International,08:30 AM,0,DUD,WLG
+47,Hong Kong Airlines,2025-04-28,HX616,scheduled,Hong Kong International,03:05 AM,Kansai International,07:55 AM,0,HKG,KIX
+48,Turkish Airlines,2025-04-28,TK9211,scheduled,Hong Kong International,03:05 AM,Kansai International,07:55 AM,0,HKG,KIX
+49,Peach Aviation,2025-04-28,MM60,scheduled,Hong Kong International,03:00 AM,Kansai International,07:50 AM,0,HKG,KIX
+50,Qatar Airways,2025-04-28,QR8457,scheduled,Hong Kong International,02:55 AM,Stansted,08:40 AM,0,HKG,STN
+51,China Airlines,2025-04-28,CI5822,scheduled,Hong Kong International,02:55 AM,Taiwan Taoyuan International (Chiang Kai Shek International),04:30 AM,0,HKG,TPE
+52,Cathay Pacific,2025-04-28,CX820,scheduled,Hong Kong International,02:40 AM,Lester B. Pearson International,05:45 AM,0,HKG,YYZ
+53,Hong Kong Express,2025-04-28,UO604,scheduled,Hong Kong International,02:35 AM,Gimhae,07:00 AM,0,HKG,PUS
+54,Cathay Pacific,2025-04-28,CX5604,scheduled,Hong Kong International,02:35 AM,Gimhae,07:00 AM,0,HKG,PUS
+55,Hong Kong Airlines,2025-04-28,HX606,scheduled,Hong Kong International,02:35 AM,Narita International Airport,08:20 AM,0,HKG,NRT
+56,Turkish Airlines,2025-04-28,TK9204,scheduled,Hong Kong International,02:35 AM,Narita International Airport,08:20 AM,0,HKG,NRT
+57,NCA - Nippon Cargo Airlines,2025-04-28,KZ202,scheduled,Hong Kong International,02:25 AM,Narita International Airport,07:50 AM,0,HKG,NRT
+58,Cebu Pacific Air,2025-04-28,5J243,scheduled,Hong Kong International,02:20 AM,Iloilo International,05:00 AM,0,HKG,ILO
+59,Hong Kong Express,2025-04-28,UO676,scheduled,Hong Kong International,02:20 AM,Jeju Airport,06:20 AM,0,HKG,CJU
+60,Cathay Pacific,2025-04-28,CX5676,scheduled,Hong Kong International,02:20 AM,Jeju Airport,06:20 AM,0,HKG,CJU
+61,Hong Kong Airlines,2025-04-28,HX707,scheduled,Hong Kong International,02:10 AM,Ngurah Rai International,07:05 AM,0,HKG,DPS
+62,Garuda Indonesia,2025-04-28,GA9771,scheduled,Hong Kong International,02:10 AM,Ngurah Rai International,07:05 AM,0,HKG,DPS
+63,YTO Cargo Airlines,2025-04-28,YG9049,scheduled,Hangzhou,02:05 AM,Netaji Subhas Chandra,04:55 AM,0,HGH,CCU
+64,JDL Airlines,2025-04-28,JG2693,scheduled,Hangzhou,02:05 AM,Nanjing Lukou International Airport,03:05 AM,0,HGH,NKG
+65,SF Airlines,2025-04-28,O37386,scheduled,Hangzhou,02:05 AM,Shenzhen,04:00 AM,0,HGH,SZX
+66,YTO Cargo Airlines,2025-04-28,YG9055,scheduled,Hangzhou,02:05 AM,Kuala Lumpur International Airport (klia),07:10 AM,0,HGH,KUL
+67,YTO Cargo Airlines,2025-04-28,YG9031,scheduled,Hangzhou,02:05 AM,Singapore Changi,06:30 AM,0,HGH,SIN
+68,China Postal Airlines,2025-04-28,CF9085,scheduled,Hangzhou,02:00 AM,Beijing Daxing International Airport,04:20 AM,0,HGH,PKX
+69,Loong Air,2025-04-28,GJ8373,scheduled,Hangzhou,02:00 AM,Wuxi,03:10 AM,0,HGH,WUX
+70,YTO Cargo Airlines,2025-04-28,YG9033,scheduled,Hangzhou,02:00 AM,Singapore Changi,06:20 AM,0,HGH,SIN
+71,China Postal Airlines,2025-04-28,CF9081,scheduled,Hangzhou,02:00 AM,Guangzhou Baiyun International,04:10 AM,0,HGH,CAN
+72,SF Airlines,2025-04-28,O37016,scheduled,Hangzhou,01:55 AM,Qingdao,03:20 AM,0,HGH,TAO
+73,SF Airlines,2025-04-28,O36834,scheduled,Hangzhou,01:55 AM,Shenzhen,03:50 AM,0,HGH,SZX
+74,SF Airlines,2025-04-28,O3277,scheduled,Hangzhou,01:45 AM,Kansai International,05:30 AM,0,HGH,KIX
+75,SF Airlines,2025-04-28,O37146,scheduled,Hangzhou,01:45 AM,Tianjin Binhai International,03:30 AM,0,HGH,TSN
+76,Suparna Airlines,2025-04-28,Y87985,scheduled,Hangzhou,01:40 AM,Beijing Capital International,04:00 AM,0,HGH,PEK
+77,Suparna Airlines,2025-04-28,Y87969,scheduled,Hangzhou,01:30 AM,Zhengzhou,03:20 AM,0,HGH,CGO
+78,Thai Lion Air,2025-04-28,SL921,scheduled,Hangzhou,01:20 AM,Don Muang,04:30 AM,0,HGH,DMK
+79,China Postal Airlines,2025-04-28,CF9083,scheduled,Hangzhou,01:20 AM,Nanjing Lukou International Airport,02:20 AM,0,HGH,NKG
+80,Uzbekistan Airways,2025-04-28,HY504,scheduled,Hangzhou,01:05 AM,Tashkent International,05:45 AM,0,HGH,TAS
+81,Qatar Airways,2025-04-28,QR891,scheduled,Hangzhou,12:55 AM,Doha International,05:45 AM,0,HGH,DOH
+82,Beijing Capital Airlines,2025-04-28,JD,scheduled,Hangzhou,12:30 AM,Barajas,08:04 AM,0,HGH,MAD
+83,Beijing Capital Airlines,2025-04-28,JD605,scheduled,Hangzhou,12:30 AM,Barajas,08:30 AM,0,HGH,MAD
+84,YTO Cargo Airlines,2025-04-28,YG9079,scheduled,Hangzhou,12:15 AM,Ninoy Aquino International,03:15 AM,0,HGH,MNL
+85,AirAsia X,2025-04-28,D7307,scheduled,Hangzhou,12:15 AM,Kuala Lumpur International Airport (klia),05:35 AM,0,HGH,KUL
+86,YTO Cargo Airlines,2025-04-28,YG9009,scheduled,Hangzhou,12:10 AM,Urumqi,04:50 AM,0,HGH,URC
+87,Malaysia Airlines,2025-04-28,MH164,scheduled,Kuala Lumpur International Airport (klia),02:55 AM,Doha International,05:15 AM,0,KUL,DOH
+88,Sichuan Airlines,2025-04-28,3U9356,scheduled,Kuala Lumpur International Airport (klia),02:30 AM,Nanning,05:50 AM,0,KUL,NNG
+89,Biman Bangladesh Airlines,2025-04-28,BG387,scheduled,Kuala Lumpur International Airport (klia),02:30 AM,Zia International,04:25 AM,0,KUL,DAC
+90,China Southern Airlines,2025-04-28,CZ8072,scheduled,Kuala Lumpur International Airport (klia),02:20 AM,Guangzhou Baiyun International,06:35 AM,0,KUL,CAN
+91,Saudia,2025-04-28,SV841,scheduled,Kuala Lumpur International Airport (klia),02:15 AM,King Abdulaziz International,05:55 AM,0,KUL,JED
+92,Philippine Airlines,2025-04-28,PR530,scheduled,Kuala Lumpur International Airport (klia),02:15 AM,Ninoy Aquino International,06:10 AM,0,KUL,MNL
+93,AirAsia X,2025-04-28,D7532,scheduled,Kuala Lumpur International Airport (klia),02:10 AM,Kansai International,09:50 AM,0,KUL,KIX
+94,EVA Air,2025-04-28,BR382,scheduled,Tan Son Nhat International,01:50 AM,Taiwan Taoyuan International (Chiang Kai Shek International),06:15 AM,0,SGN,TPE
+95,Vietnam Airlines,2025-04-28,VN422,scheduled,Tan Son Nhat International,01:15 AM,Gimhae,07:50 AM,0,SGN,PUS
+96,Cebu Pacific Air,2025-04-28,5J752,scheduled,Tan Son Nhat International,01:10 AM,Ninoy Aquino International,05:05 AM,0,SGN,MNL
+97,Malaysia Airlines,2025-04-28,MH126,scheduled,Perth International,02:10 AM,Kuala Lumpur International Airport (klia),07:55 AM,0,PER,KUL
+98,Oman Air,2025-04-28,WY5559,scheduled,Perth International,02:10 AM,Kuala Lumpur International Airport (klia),07:55 AM,0,PER,KUL
+99,SriLankan Airlines,2025-04-28,UL2126,scheduled,Perth International,02:10 AM,Kuala Lumpur International Airport (klia),07:55 AM,0,PER,KUL
+100,Turkish Airlines,2025-04-28,TK4806,scheduled,Perth International,02:10 AM,Kuala Lumpur International Airport (klia),07:55 AM,0,PER,KUL
