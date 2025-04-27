@@ -11,8 +11,7 @@ import json
 import threading as th
 from data import get_cleaned_df
 
-st.set_page_config(page_title='Flight Tracker Dashboard',page_icon='✈️',layout='wide',initial_sidebar_state='auto')
-# st.logo('images/logo_nobg.png',size='large')
+st.set_page_config(page_title='Flight Tracker Dashboard',page_icon='images/flight_tracker.png',layout='wide',initial_sidebar_state='auto')
 def load_anime():
     file='flight_anime.json'
     with open(file,'r') as f:
@@ -78,16 +77,16 @@ if not df.empty:
                     st.markdown(f'''<h3 style="text-align:center">{filtered['airline_name'][i]}''',unsafe_allow_html=True)
                     a1,a2,a3,a4=st.columns(4,border=True,)
                     a1.image('images/flight_png.png',width=350)
-                    a2.write(f'**Flight:** {filtered['flight'][i]}')
-                    a2.write(f'**Date:** {filtered['flight_date'][i]}')
-                    a2.write(f'**Status:** {filtered['flight_status'][i]}')
-                    a3.write(f'**Departure:** {filtered['departure_airport'][i]}')
-                    a3.write(f'**Scheduled:** {filtered['departure_scheduled'][i]}')
-                    a3.write(f'**iata:** {filtered['departure_iata'][i]}')
-                    a4.write(f'**Arrival:** {filtered['arrival_airport'][i]}')
-                    a4.write(f'**Scheduled:** {filtered['arrival_scheduled'][i]}')
-                    a4.write(f'**Delay:** {filtered['arrival_delay'][i]}')
-                    a4.write(f'**iata:** {filtered['arrival_iata'][i]}')
+                    a2.write(f"**Flight:** {filtered['flight'][i]}")
+                    a2.write(f"**Date:** {filtered['flight_date'][i]}")
+                    a2.write(f"**Status:** {filtered['flight_status'][i]}")
+                    a3.write(f"**Departure:** {filtered['departure_airport'][i]}")
+                    a3.write(f"**Scheduled:** {filtered['departure_scheduled'][i]}")
+                    a3.write(f"**iata:** {filtered['departure_iata'][i]}")
+                    a4.write(f"**Arrival:** {filtered['arrival_airport'][i]}")
+                    a4.write(f"**Scheduled:** {filtered['arrival_scheduled'][i]}")
+                    a4.write(f"**Delay:** {filtered['arrival_delay'][i]}")
+                    a4.write(f"**iata:** {filtered['arrival_iata'][i]}")
                     st.write('---')
         else:
             filtered=filtered.sort_values(by='departure_scheduled').reset_index().drop('index',axis=1)
@@ -155,7 +154,7 @@ if not df.empty:
 
                 for i in range(len(df1)):
                     fig.add_trace(go.Scattermapbox(mode='lines+markers',lat=[df1['dep_lat'][i],df1['arr_lat'][i]],
-                                                                        lon=[df1['dep_lon'][i],df1['arr_lon'][i]],showlegend=False,text=f'✈️ {df1['airline_name'][i]} ({df1['departure_airport'][i]} to {df1['arrival_airport'][i]})'))
+                                                                        lon=[df1['dep_lon'][i],df1['arr_lon'][i]],showlegend=False,text=f"✈️ {df1['airline_name'][i]} ({df1['departure_airport'][i]} to {df1['arrival_airport'][i]})"))
 
                 fig.update_layout(
                     mapbox = {
